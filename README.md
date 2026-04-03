@@ -47,6 +47,8 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 * AI Thinker ESP32-CAM Module
   [https://amzn.eu/d/024SX1PO](https://amzn.eu/d/024SX1PO)
+* SD Card
+  [https://amzn.eu/d/09k1OFlh](https://amzn.eu/d/09k1OFlh)
 * TC4056 USB Charging Module
   [https://amzn.eu/d/02Zvqhaq](https://amzn.eu/d/02Zvqhaq)
 * 1100 mAh LiPo Battery
@@ -84,11 +86,12 @@ All structural parts are designed to be fully 3D printable.
 ## 🔌 Assembly
 
 1. Print all required parts
-2. Assemble the electronics according to the wiring diagram
-3. Insert all modules into the housing
-4. Secure the button, vibration motor, charging module, and step-up module using hot glue
-5. Close the case using super glue
-6. Flash the firmware
+2. Format SD Card to FAT32 and insert it
+3. Assemble the electronics according to the wiring diagram
+4. Insert all modules into the housing
+5. Secure the button, vibration motor, charging module, and step-up module using hot glue
+6. Close the case using super glue
+7. Flash the firmware
 
 <p align="center">
   <img src="img/components.png" width="48%" />
@@ -137,6 +140,7 @@ Here are some sample shots taken with Obscura One:
 <p align="center">
   <img src="img/img_1.jpg" width="48%" />
   <img src="img/img_2.jpg" width="48%" />
+  <img src="img/img_3.jpg" width="48%" />
 </p>
 
 ---
