@@ -87,13 +87,23 @@ All structural parts are designed to be fully 3D printable.
 2. Assemble the electronics according to the wiring diagram
 3. Insert all modules into the housing
 4. Secure the button, vibration motor, charging module, and step-up module using hot glue
-5. Close the case using super glue and test functionality
-
+5. Close the case using super glue
+6. Flash the firmware
 
 <p align="center">
   <img src="img/components.png" width="48%" />
     <img src="img/3dparts.png" width="48%" />
 </p>
+
+---
+
+## 📝 Arduino Setup
+
+1. Open Arduino IDE and add the ESP32 board manager URL:
+   `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
+2. Go to **Tools → Board → Board Manager**, search for **ESP32** and install it.
+3. Select **AI Thinker ESP32-CAM** as the board.
+4. Install any missing libraries via Arduino Library Manager (Sketch → Include Library → Manage Libraries).
 
 ---
 
