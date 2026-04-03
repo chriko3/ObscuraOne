@@ -1,5 +1,10 @@
 # 📸 Obscura One – Open Source Camera
 
+<p align="center">
+  <img src="img/camera.jpg" width="48%" />
+  <img src="img/camera2.jpg" width="48%" />
+</p>
+
 A minimalist, fully open-source camera project with a nostalgic 2000s vibe.
 Designed to be simple, hackable, and entirely 3D printable.
 
@@ -84,6 +89,11 @@ All structural parts are designed to be fully 3D printable.
 ## 🖼️ Example Photos
 
 Here are some sample shots taken with Obscura One:
+
+<p align="center">
+  <img src="img/img_1.jpg" width="48%" />
+  <img src="img/img_2.jpg" width="48%" />
+</p>
 
 ---
 
