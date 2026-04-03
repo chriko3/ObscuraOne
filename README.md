@@ -138,9 +138,9 @@ All structural parts are designed to be fully 3D printable.
 Here are some sample shots taken with Obscura One:
 
 <p align="center">
-  <img src="img/img_1.jpg" width="48%" />
-  <img src="img/img_2.jpg" width="48%" />
-  <img src="img/img_3.jpg" width="48%" />
+  <img src="img/img_1.jpg" width="30%" />
+  <img src="img/img_2.jpg" width="30%" />
+  <img src="img/img_3.jpg" width="30%" />
 </p>
 
 ---
