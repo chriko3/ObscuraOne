@@ -77,6 +77,8 @@ All structural parts are designed to be fully 3D printable.
 * Infill: ~20%
 * Supports: Required for case and back cover
 
+* 3D model on Printables: [https://www.printables.com/model/1662215-obscura-one](https://www.printables.com/model/1662215-obscura-one)
+
 ---
 
 ## 🔌 Assembly
