@@ -90,7 +90,7 @@ All structural parts are designed to be fully 3D printable.
 
 <p align="center">
   <img src="img/components.png" width="48%" />
-    <img src="img/3dparts" width="48%" />
+    <img src="img/3dparts.png" width="48%" />
 </p>
 
 ---
