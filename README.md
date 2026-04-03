@@ -25,7 +25,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 * **3D Design:** FreeCAD
 * **Firmware:** Arduino
-* **AI Assistance for Code:** Cursor AI
+* **AI Assistance for Code and Read me:** Cursor AI & Chat GPT
 
 ---
 
@@ -93,6 +93,6 @@ Here are some sample shots taken with Obscura One:
 ## 📜 License
 
 This project is fully open source.
-MIT License is recommended, but feel free to choose what suits your needs.
+MIT License
 
 ---
