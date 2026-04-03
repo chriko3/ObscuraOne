@@ -64,6 +64,10 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 *Note: These are not affiliate links.*
 
+<p align="center">
+  <img src="img/components" width="48%" />
+</p>
+
 
 ---
 
