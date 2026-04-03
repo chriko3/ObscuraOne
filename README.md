@@ -95,6 +95,29 @@ All structural parts are designed to be fully 3D printable.
 
 ---
 
+## 🔌 Circuit
+
+**Pin Mapping:**
+
+* TC4056 OUT+ → Mini Push Button Switch → Step-Up VIN
+* TC4056 OUT− → Step-Up GND
+* Battery + → TC4056 B+
+* Battery − → TC4056 B−
+* Step-Up VOUT → 5V ESP32-CAM Module
+* Step-Up GND → ESP32-CAM GND
+* Tactile Button → ESP32 GND
+* Tactile Button → GPIO 13
+* PWM Vibration Motor Module IN → GPIO 12
+* PWM Vibration Motor Module VCC → 5V ESP32
+* PWM Vibration Motor Module GND → ESP32 GND
+
+**Wiring Diagram:**
+<p align="center">
+  <img src="img/wiringdiagram.png" width="80%"/>
+</p>
+
+---
+
 ## 🖼️ Example Photos
 
 Here are some sample shots taken with Obscura One:
