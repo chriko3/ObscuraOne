@@ -64,11 +64,6 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 *Note: These are not affiliate links.*
 
-<p align="center">
-  <img src="img/components.png" width="48%" />
-</p>
-
-
 ---
 
 ## 🖨️ 3D Printing
@@ -91,6 +86,12 @@ All structural parts are designed to be fully 3D printable.
 3. Insert all modules into the housing
 4. Secure the button, vibration motor, charging module, and step-up module using hot glue
 5. Close the case using super glue and test functionality
+
+
+<p align="center">
+  <img src="img/components.png" width="48%" />
+    <img src="img/3dparts" width="48%" />
+</p>
 
 ---
 
