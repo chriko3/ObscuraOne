@@ -10,13 +10,6 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 ---
 
-## ✨ Overview
-
-**Obscura One** is a compact DIY camera built around simplicity and accessibility.
-With just a single button controlling all functions, it reduces photography to its essentials—while staying fun, customizable, and open for experimentation.
-
----
-
 ## ⚙️ Key Facts
 
 * 🧠 **Difficulty Level:** 3 / 5
@@ -32,7 +25,7 @@ With just a single button controlling all functions, it reduces photography to i
 
 * **3D Design:** FreeCAD
 * **Firmware:** Arduino
-* **AI Assistance:** Cursor AI
+* **AI Assistance for Code:** Cursor AI
 
 ---
 
