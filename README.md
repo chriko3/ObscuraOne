@@ -141,6 +141,9 @@ Here are some sample shots taken with Obscura One:
   <img src="img/img_1.jpg" width="30%" />
   <img src="img/img_2.jpg" width="30%" />
   <img src="img/img_3.jpg" width="30%" />
+  <img src="img/img_4.jpg" width="30%" />
+  <img src="img/img_5.jpg" width="30%" />
+  <img src="img/img_6.jpg" width="30%" />
 </p>
 
 ---
