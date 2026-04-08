@@ -1,4 +1,4 @@
-# 📸 Obscura One – Open Source Camera
+# 📸 Obscura One – An Open-Source Screenless Camera
 
 <p align="center">
   <img src="img/camera.jpg" width="48%" />
@@ -16,6 +16,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 * ⏱️ **Build Time:** ~4 hours
 * 🧩 **Fully Open Source**
 * 🖨️ **100% 3D Printable Housing**
+* 🔋 **Battery Life:** ~2–3 hours (depending on Wi-Fi usage)
 * 💸 **Estimated Cost:** under €30
 * 🛒 **Parts Availability:** Amazon / AliExpress
 
@@ -39,8 +40,16 @@ Designed to be simple, hackable, and entirely 3D printable.
 * 📡 **Wi-Fi mode:**
 
   * Hold for 3 seconds → Activate Wi-Fi for photo download
+  * Hold for 3 seconds (while in Wi-Fi mode) → Deactivate Wi-Fi and return to photo mode
+  * **Wifi Name:** Obscura One
+  * **Password:** 12345678
 * 📳 **Haptic feedback via vibration module**
 
+  * 1 long vibration → Device powered on  
+  * 1 short vibration → Normal photo taken  
+  * 2 short vibrations → Photo with flash taken  
+  * 3 short vibrations → Wi-Fi activated (photo mode deactivated)  
+  * 3 long vibrations → Wi-Fi deactivated (photo mode activated)
 ---
 
 ## 🧰 Components
@@ -147,10 +156,10 @@ Here are some sample shots taken with Obscura One:
 </p>
 
 ---
-
 ## 📜 License
 
-This project is fully open source.
-MIT License
+Obscura One is released under the MIT License.  
+You may use, modify, and distribute this project freely.  
+**If you publish or redistribute it, please credit the original author by name.**
 
 ---
