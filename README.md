@@ -163,3 +163,19 @@ You may use, modify, and distribute this project freely.
 **If you publish or redistribute it, please credit the original author by name.**
 
 ---
+
+## ⚠️ Liability
+
+This project is provided as-is, with no guarantees of any kind.
+
+By building, modifying, or using this device, you do so entirely at your own risk.
+I take **no responsibility whatsoever** for any damage or issues that may occur, including:
+
+* Hardware damage
+* Data loss
+* Personal injury
+* Any direct or indirect consequences
+
+There is no warranty for functionality, safety, or fitness for any purpose.
+
+**In short: I am not liable for anything.**
