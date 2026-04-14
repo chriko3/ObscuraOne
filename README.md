@@ -1,12 +1,14 @@
-# 📸 Obscura One – An Open-Source Screenless Camera
+## 📸 Obscura One – An Open-Source Screenless Camera
 
 <p align="center">
   <img src="img/camera.jpg" width="48%" />
   <img src="img/camera2.jpg" width="48%" />
 </p>
 
-A minimalist, fully open-source camera project with a nostalgic 2000s vibe.
+A minimalist, fully open-source camera project with a nostalgic 2000s vibe.  
 Designed to be simple, hackable, and entirely 3D printable.
+
+📰 Featured article about the project: [Hackster.io](https://www.hackster.io/news/the-obscura-one-is-a-tiny-nostalgia-driven-pocket-camera-you-can-build-for-just-35-843e0a65a846)
 
 ---
 
