@@ -19,8 +19,8 @@ Designed to be simple, hackable, and entirely 3D printable.
 * 🧩 **Fully Open Source**
 * 🖨️ **100% 3D Printable Housing**
 * 🔋 **Battery Life:** ~2–3 hours (depending on Wi-Fi usage)
-* 💸 **Estimated Cost:** under €30
-* 🛒 **Parts Availability:** Amazon / AliExpress
+* 💸 **Estimated Cost:** under €30/35$
+* 🛒 **Parts Availability:** Amazon
 
 ---
 
