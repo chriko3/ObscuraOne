@@ -56,25 +56,36 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 ## 🧰 Components
 
-* AI Thinker ESP32-CAM Module
-  [https://amzn.eu/d/024SX1PO](https://amzn.eu/d/024SX1PO)
-* SD Card
-  [https://amzn.eu/d/09k1OFlh](https://amzn.eu/d/09k1OFlh)
-* TC4056 USB Charging Module
-  [https://amzn.eu/d/02Zvqhaq](https://amzn.eu/d/02Zvqhaq)
-* 1100 mAh LiPo Battery
-  [https://amzn.eu/d/0aaQkbQR](https://amzn.eu/d/0aaQkbQR)
-* Mini Push Button Switch (self-locking)
-  [https://amzn.eu/d/0bQ7lpwj](https://amzn.eu/d/0bQ7lpwj)
-* Step-Up Power Module
-  [https://amzn.eu/d/0cnFAXdy](https://amzn.eu/d/0cnFAXdy)
-* PWM Vibration Motor Module
-  [https://amzn.eu/d/0cxGOyEb](https://amzn.eu/d/0cxGOyEb)
-* Tactile Button
-  [https://amzn.eu/d/07s1kupT](https://amzn.eu/d/07s1kupT)
-* Optional: Hand strap
-  [https://amzn.eu/d/002JGn6S](https://amzn.eu/d/002JGn6S)
+- **AI Thinker ESP32-CAM Module**  
+  https://amzn.to/4tbcQNc  
 
+- **Micro SD Card**  
+  https://amzn.to/4ckgBJ6  
+
+- **TP4056 USB Charging Module**  
+  https://amzn.to/4crliB1  
+
+- **1100 mAh LiPo Battery**  
+  https://amzn.to/482OfBQ  
+
+- **Self-Locking Push Button Switch**  
+  https://amzn.to/4cqLJ9I  
+
+- **Step-Up (Boost) Converter Module**  
+  https://amzn.to/4sCSewi
+
+- **PWM Vibration Motor Module**  
+  https://amzn.to/48P5irh  
+
+- **Tactile Button (Momentary Switch)**  
+  https://amzn.to/4tdiw9J  
+
+- **Optional**
+  - Hand Strap
+  https://amzn.to/4emuPM7
+  - PETG i used
+  https://amzn.to/4vvWlwI
+ 
 *Note: These are not affiliate links.*
 
 ---
