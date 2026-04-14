@@ -86,7 +86,7 @@ Designed to be simple, hackable, and entirely 3D printable.
   - PETG i used
   https://amzn.to/4vvWlwI
  
-*Note: These are not affiliate links.*
+*Note: These are affiliate links.*
 
 ---
 
