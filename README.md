@@ -18,11 +18,19 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 * 🧠 **Difficulty Level:** 3 / 5
 * ⏱️ **Build Time:** ~4 hours
+* 📸 **Photo only camera**
 * 🧩 **Fully Open Source**
 * 🖨️ **100% 3D Printable Housing**
 * 🔋 **Battery Life:** ~2–3 hours (depending on Wi-Fi usage)
 * 💸 **Estimated Cost:** under €30/35$
 * 🛒 **Parts Availability:** Amazon
+
+**Short video of the camera in use (handheld demo)**
+<p align="center">
+  <video width="70%" controls>
+    <source src="img/cam_video.mp4" type="video/mp4">
+  </video>
+</p>
 
 ---
 
