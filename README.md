@@ -26,8 +26,8 @@ Designed to be simple, hackable, and entirely 3D printable.
 * 🛒 **Parts Availability:** Amazon
 
 **Short video of the camera in use (handheld demo)**
-<p align="center">
-<video src="img/cam_video.mp4" width="320" height="240" controls></video>
+<p align="left">
+  <img src="img/cam_video.gif" width="250" />
 </p>
 
 ---
