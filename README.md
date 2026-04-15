@@ -10,6 +10,8 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 📰 Featured article about the project: [Hackster.io](https://www.hackster.io/news/the-obscura-one-is-a-tiny-nostalgia-driven-pocket-camera-you-can-build-for-just-35-843e0a65a846)
 
+☕ Like this project? Support me here: [https://buymeacoffee.com/chriko3](https://buymeacoffee.com/chriko3)
+
 ---
 
 ## ⚙️ Key Facts
