@@ -27,9 +27,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 **Short video of the camera in use (handheld demo)**
 <p align="center">
-  <video width="70%" controls>
-    <source src="img/cam_video.mp4" type="video/mp4">
-  </video>
+<video src="img/cam_video.mp4" width="320" height="240" controls></video>
 </p>
 
 ---
