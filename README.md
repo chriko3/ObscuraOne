@@ -30,7 +30,8 @@ Designed to be simple, hackable, and entirely 3D printable.
   <img src="img/cam_video.gif" width="250" />
 </p>
 
-[![Watch the full demo video](https://img.youtube.com/vi/kqI95PdxXXI/0.jpg)](https://youtu.be/kqI95PdxXXI)
+**Watch the full demo Video:**
+[![Demo Video](https://img.youtube.com/vi/kqI95PdxXXI/0.jpg)](https://youtu.be/kqI95PdxXXI)
 
 ---
 
