@@ -29,6 +29,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 <p align="left">
   <img src="img/cam_video.gif" width="250" />
 </p>
+* 📹 **Demo Video on YouTube:** [YouTube.com](https://youtu.be/kqI95PdxXXI?is=MiqOfLsuDAFertvR)
 
 ---
 
