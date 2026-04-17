@@ -25,7 +25,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 * 💸 **Estimated Cost:** under €30/35$
 * 🛒 **Parts Availability:** Amazon
 
-**Short GIF of the Obscura One in use**
+**Short GIF of the Obscura One in use:**
 <p align="left">
   <img src="img/cam_video.gif" width="250" />
 </p>
