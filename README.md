@@ -14,7 +14,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 
 ---
 
-## ⚙️ Key Facts
+## ⚙️ Key Facts & demonstration
 
 * 🧠 **Difficulty Level:** 3 / 5
 * ⏱️ **Build Time:** ~4 hours
