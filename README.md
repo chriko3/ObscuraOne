@@ -31,7 +31,11 @@ Designed to be simple, hackable, and entirely 3D printable.
 </p>
 
 **Watch the full demo Video on YouTube :**
-[![Demo Video](https://img.youtube.com/vi/kqI95PdxXXI/0.jpg)](https://youtu.be/kqI95PdxXXI)
+<p align="left">
+  <a href="https://youtu.be/kqI95PdxXXI">
+    <img src="https://img.youtube.com/vi/kqI95PdxXXI/0.jpg" width="250" />
+  </a>
+</p>
 
 ---
 
