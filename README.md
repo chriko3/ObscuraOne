@@ -17,7 +17,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 ## ⚙️ Key Facts & demonstration
 
 * 🧠 **Difficulty Level:** 3 / 5
-* ⏱️ **Build Time:** ~4 hours
+* ⏱️ **Build and Print time:** ~4 hours
 * 📸 **Photo only camera**
 * 🧩 **Fully Open Source**
 * 🖨️ **100% 3D Printable Housing**
