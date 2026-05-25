@@ -33,7 +33,7 @@ Designed to be simple, hackable, and entirely 3D printable.
 **Watch the full demo Video on YouTube :**
 <p align="left">
   <a href="https://youtu.be/kqI95PdxXXI">
-    <img src="https://img.youtube.com/vi/kqI95PdxXXI/0.jpg" width="250" />
+    <img src="https://img.youtube.com/vi/kqI95PdxXXI/0.jpg" width="300" />
   </a>
 </p>
 
